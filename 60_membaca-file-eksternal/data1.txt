@@ -1,0 +1,10 @@
+ini file eksternal.
+dan ini adalah baris ke-dua
+
+data
+no	Nama
+1	Muhammad
+2	Ridha
+3	Ucup
+4	Mario
+5	Sandra

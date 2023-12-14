@@ -1,0 +1,2 @@
+Baris Pertama pada File3.txtini adalah baris kedua!!
+ini adalah baris kedua!!
